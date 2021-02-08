@@ -1,3 +1,3 @@
 # Test
-Just a test repository
-Testing is real fun
+Just a test repository.
+Testing is real fun!
